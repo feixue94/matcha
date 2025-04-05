@@ -1,6 +1,6 @@
-# MATCHA: Towards Matching Anything
+# MATCHA: Towards Matching Anything (CVPR 20205 Highlight)
 
-This is the official implementation of our paper accepted by CVPR 2025
+This is the official implementation of our paper accepted by CVPR 2025 as highlight
 
 Authors: Fei Xue, Sven Elflein, Laura Leal-Taixé, Qunjie Zhou
 
