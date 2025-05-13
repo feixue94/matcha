@@ -1,4 +1,4 @@
-# MATCHA: Towards Matching Anything (CVPR 2025 Highlight)
+# (CVPR 2025 Highlight) MATCHA: Towards Matching Anything 
 
 This is the official implementation of our paper accepted by CVPR 2025 as highlight
 
